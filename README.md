@@ -1,14 +1,11 @@
-# LTL-TAMP
-This repo contains the learning materials for LTL-based Task and Motion Planning (TAMP).
+# LTL-TAMP 学习路径
+基于线性时序逻辑的多智能体任务和运动规划（LTL-based Multi-agent Task and Motion Planning）入门资料：
 
-
-
-**11月任务分工**：
-
----
-
-- **泽森**：将product partial order算法整合进目前算法框架，然后实现一组满足指标要求的场景想定，方便后续进行其他案例的拓展，最好是能有指标中具体数值的体现，比如计算时间、任务执行时间等。（ddl本周二）
-- **俊杰**：推动代码结构继续完善，负责这周五的创新院项目中期报告和答辩，以及*中期进展报告*（ddl本周六）。
-- **祺晟**：负责创新院项目*方案评审报告*的修改（ddl本周三），和k军某项目的*技术报告*（ddl本周六）。
-- **云奕**：负责*中期进展报告*中分支定界法部分（ddl本周三），解读代码中分支定界法部分（ddl本周六）。
-- **张硕**：负责*中期进展报告*中偏序关系部分（ddl本周三），解读代码中偏序关系部分（ddl本周六）。
+1. 一门讲座：Motion and Task Plannig.mp4
+2. 一篇博士论文：
+Hybrid Control of Multi-robot Systems under Complex Temporal Tasks 
+3. 两本参考书籍： 
+ - LaValle, S. M. (2006). Planning algorithms. Cambridge university press. 
+ - Baier, C., & Katoen, J. P. (2008). Principles of model checking. MIT press. 
+4. 一套网课：动态系统的形式化分析与控制 （帮助理解形式化方法的基本概念）https://www.bilibili.com/video/BV12r4y1w7DF/
+5. 上手实践：https://github.com/MengGuo/P_MAS_TG
